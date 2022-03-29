@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MAP524_Assignment3_JaehyunAhn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="qTxt_1">마라케시는 모로코의 수도이다</string>
+    <string name="qTxt_2">이디나 멘젤의 "Let it go" 에서 "Let it go" 는 총 10번 나온다</string>
+    <string name="qTxt_3">런던에서 지하철역이 제일 많은곳은 워털루이다</string>
+    <string name="qTxt_4">M&amp;M 은 Mickey and Moordale의 약자이다</string>
+    <string name="qTxt_5">스코틀랜드의 국수는 유니콘이다</string>
+    <string name="qTxt_6">"A"가 가장 많이 사용되는 알파벳이다.</string>
+    <string name="qTxt_7">사자의 울음소리는 8km 밖에서도 들을 수 있다.</string>
+    <string name="qTxt_8">모나코는 세상에서 가장 작은 나라이다.</string>
+    <string name="qTxt_9">혈액형은 5가지가 있다,</string>
+    <string name="qTxt_10">신데렐라는 디즈니에서 개봉한 첫 애니메이션 영화이다.</string>
+
+    <string name="correct">정답</string>
+    <string name="incorrect">오답</string>
+
+    <string name="true_b">그렇다</string>
+    <string name="false_b">아니다</string>
+    <string name="save_b">저장</string>
+    <string name="ignore_b">무시하기</string>
+    <string name="ok_b">확인</string>
+    <string name="cancel_b">취소</string>
+
+    <string name="getTheAverage">평균값 구하기</string>
+    <string name="selectNumOfQuestions">문제 수 설정</string>
+    <string name="resetSavedResult">결과 초기화</string>
+
+    <string name="result">결과</string>
+    <string name="yourScore">점수: </string>
+    <string name="outOf"> 개 정답 총: </string>
+
+    <string name="inputHint">0 이상 10 이하의 숫자만 입력 가능합니다.</string>
+    <string name="showTotalResult">정답/총문제 = </string>
+    <string name="sameNumInput">현재 문제수와 같은값이 입력되었습니다.</string>
+    <string name="inputLessThan0">입력값이 0 보다 작으면 안됩니다.</string>
+    <string name="inputLargerThan10">입력값이 10 보다 크면 안됩니다.</string>
+    <string name="invalidInput">잘못된 입력값입니다. 올바른 값을 입력하세요.</string>
+
+
+</resources>

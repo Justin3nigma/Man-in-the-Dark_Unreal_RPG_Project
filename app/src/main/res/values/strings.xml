@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MAP524_Assignment3_JaehyunAhn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="qTxt_1">Marrakesh is the capital of Morocco</string>
+    <string name="qTxt_2">Idina Menzel sings the phrase, "Let it go" 10 times in the song "Let It Go".</string>
+    <string name="qTxt_3">Waterloo has the greatest number of tube platforms in London</string>
+    <string name="qTxt_4">M&amp;M stands for Mickey and Moordale</string>
+    <string name="qTxt_5">The unicorn is the national animal of Scotland</string>
+    <string name="qTxt_6">"A" is the most common letter used in the English language</string>
+    <string name="qTxt_7">A lion\'s roar can be heard up to eight kilometers away</string>
+    <string name="qTxt_8">Monaco is the smallest country in the world</string>
+    <string name="qTxt_9">There are five main blood groups</string>
+    <string name="qTxt_10">Cinderella was the first Disney princess animated movie</string>
+
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+    <string name="true_b">TRUE</string>
+    <string name="false_b">FALSE</string>
+    <string name="ignore_b">IGNORE</string>
+    <string name="ok_b">OK</string>
+    <string name="cancel_b">CANCEL</string>
+    <string name="save_b">SAVE</string>
+
+    <string name="getTheAverage">Get The Average</string>
+    <string name="selectNumOfQuestions">Select the number of Question</string>
+    <string name="resetSavedResult">Reset the saved Result</string>
+
+    <string name="result">Result</string>
+    <string name="yourScore">Your Score is:\u0020</string>
+    <string name="outOf">\u0020out of\u0020</string>
+
+    <string name="inputHint">Enter the number of question less than\u0020</string>
+    <string name="showTotalResult">Your Correct answers / Total number of questions =\u0020</string>
+    <string name="sameNumInput">You entered the same number </string>
+    <string name="inputLessThan0">Input cannot be less or equal to 0</string>
+    <string name="inputLargerThan10">Input cannot be bigger than 10</string>
+    <string name="invalidInput">Input invalid, make sure to input the correct value</string>
+
+</resources>
